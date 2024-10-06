@@ -15,26 +15,27 @@ The project is important because it makes **JWST's scientific achievements acces
 [SIRIUS.pptx](https://github.com/user-attachments/files/17267949/SIRIUS.pptx)
 
 ## OUTPUT
-![Screenshot 2024-10-06 082737](https://github.com/user-attachments/assets/6bc257a2-7b43-401e-9ead-1ceeaab704af)
+
 ## Interactive User Interface ##
+![Screenshot 2024-10-06 082737](https://github.com/user-attachments/assets/6bc257a2-7b43-401e-9ead-1ceeaab704af)
 
-![Screenshot 2024-10-06 082847](https://github.com/user-attachments/assets/89342d6c-41dc-4e44-99fa-ae0ac2cb9930)
 ## 3-D Human Interactable JWST Model ##
+![Screenshot 2024-10-06 082847](https://github.com/user-attachments/assets/89342d6c-41dc-4e44-99fa-ae0ac2cb9930)
 
-![Screenshot 2024-10-06 082935](https://github.com/user-attachments/assets/43499269-85c3-4781-aeff-7aa328dc6eeb)
 ## Many categories of images ##
+![Screenshot 2024-10-06 082935](https://github.com/user-attachments/assets/43499269-85c3-4781-aeff-7aa328dc6eeb)
 
-![Screenshot 2024-10-06 082948](https://github.com/user-attachments/assets/36636e5e-d534-433c-aee1-3864f4e5cd5a)
 ## JWST image slideshow with Mood based Music player ##
+![Screenshot 2024-10-06 082948](https://github.com/user-attachments/assets/36636e5e-d534-433c-aee1-3864f4e5cd5a)
 
-![Screenshot 2024-10-06 082909](https://github.com/user-attachments/assets/51ab3cca-8093-4320-963b-8a03d0495110)
 ## Interactive Quizes for user learning ##
+![Screenshot 2024-10-06 082909](https://github.com/user-attachments/assets/51ab3cca-8093-4320-963b-8a03d0495110)
 
-![Screenshot 2024-10-06 083215](https://github.com/user-attachments/assets/7503db47-6455-4123-b0cf-4fc2c44a9473)
 ## Interactive 3-D model of space with required details of each planet ##
+![Screenshot 2024-10-06 083215](https://github.com/user-attachments/assets/7503db47-6455-4123-b0cf-4fc2c44a9473)
 
-![image](https://github.com/user-attachments/assets/afad32ce-29ea-43b9-9b21-ee70c40bd7d3)
 ## Feedback form for future reference ##
+![image](https://github.com/user-attachments/assets/afad32ce-29ea-43b9-9b21-ee70c40bd7d3)
 
 # How it Works ?
 1. **3D Models and Graphics:**
@@ -102,11 +103,11 @@ Through these innovations, the *SIRIUS* project aspires to transform the way ind
 
 ## Future Look ##
 
-![WhatsApp Image 2024-10-06 at 09 10 36_0d9cbbfa](https://github.com/user-attachments/assets/4fe57049-b14f-4722-9246-8ee577e5b9d1)
 ## More Interactive and pleasing UI ##
+![WhatsApp Image 2024-10-06 at 09 10 36_0d9cbbfa](https://github.com/user-attachments/assets/4fe57049-b14f-4722-9246-8ee577e5b9d1)
 
-![WhatsApp Image 2024-10-06 at 09 10 35_f73e9dff](https://github.com/user-attachments/assets/f1a3b01e-5115-4490-8d0b-bb71df585681)
 ## Giving a real blend of space to the users ##
+![WhatsApp Image 2024-10-06 at 09 10 35_f73e9dff](https://github.com/user-attachments/assets/f1a3b01e-5115-4490-8d0b-bb71df585681)
 
 ![WhatsApp Image 2024-10-06 at 09 10 35_17057737](https://github.com/user-attachments/assets/89deb61f-6d69-4e53-b8cf-93b62f40d866)
 ![WhatsApp Image 2024-10-06 at 09 12 30_a77db4b0](https://github.com/user-attachments/assets/36e61a4b-0b92-4321-8bbd-40eb555b4d27)
